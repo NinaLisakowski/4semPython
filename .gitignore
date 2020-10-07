@@ -7,7 +7,7 @@
 **/my_modules/
 **/Class exercises/
 **/class_notebooks/
-**/.gitignore
+.gitignore
 
 
 # Created by https://www.gitignore.io/api/python,jupyternotebooks,visualstudiocode
